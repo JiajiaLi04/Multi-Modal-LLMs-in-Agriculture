@@ -32,7 +32,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 ## 🔍 Table of Contents 
 
 - [1. 💁🏽‍♀️ Introduction](#1-️-introduction)
-- [2. 💁🏽‍♀️ LLMs from major AI leading companies](#2-️llms-from-major-ai-leading-companies)
+- [2. 🤖 LLMs from major AI leading companies](#2-️llms-from-major-ai-leading-companies)
   - [2.1 Amazon](#21-Amazon)
   - [2.2 OpenAI](#22-Openai)
   - [2.3 MetaAI](#22-Metaai)
@@ -42,7 +42,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
   - [2.7 Microsoft](#22-Microsoft)
   - [2.8 Alibaba](#22-Alibaba)
 
-- [3. 🤖 Applications](#2--applications)
+- [3. 💁🏽‍♀️ Applications](#2--applications)
   - [3.1 LLMS in agriculture information diagnosis and human-machine interaction peer reviewed](#21-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-peer-reviewed)
   - [3.2 LLMS in agriculture information diagnosis and human-machine interaction arXiv](#22-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-arXiv)
 
@@ -68,42 +68,55 @@ Why foundation models instead of traditional deep learning models?
 6. McAleese, Nat, et al. "Llm critics help catch llm bugs." arXiv preprint arXiv:2407.00215 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Llm+critics+help+catch+llm+bugs&btnG=) [[Paper]](https://arxiv.org/abs/2407.00215)
 
 ### 2.3 MetaAI
-1. [[Google Scholar]]() [[Paper]]()
-2. [[Google Scholar]]() [[Paper]]()
-3. [[Google Scholar]]() [[Paper]]()
-4. [[Google Scholar]]() [[Paper]]()
-5. [[Google Scholar]]() [[Paper]]()
-6. [[Google Scholar]]() [[Paper]]()
-7. [[Google Scholar]]() [[Paper]]()
-8. [[Google Scholar]]() [[Paper]]()
-9. [[Google Scholar]]() [[Paper]]()
+1. Team, Chameleon. "Chameleon: Mixed-modal early-fusion foundation models." arXiv preprint arXiv:2405.09818 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Chameleon%3A+Mixed-modal+early-fusion+foundation+models&btnG=) [[Paper]](https://arxiv.org/abs/2405.09818)
+2. Meta, A. I. "Introducing meta llama 3: The most capable openly available llm to date." Meta AI (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Introducing+meta+llama+3%3A+The+most+capable+openly+available+llm+to+date&btnG=) [[Website]](https://ai.meta.com/blog/meta-llama-3/)
+3. Xiong, Wenhan, et al. "Effective long-context scaling of foundation models." arXiv preprint arXiv:2309.16039 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Effective+long-context+scaling+of+foundation+models&btnG=) [[Paper]](https://arxiv.org/abs/2309.16039)
+4. Zhou, Chunting, et al. "Lima: Less is more for alignment." Advances in Neural Information Processing Systems 36 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Lima%3A+Less+is+more+for+alignment&btnG=) [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ac662d74829e4407ce1d126477f4a03a-Abstract-Conference.html)
+5. Iyer, Srinivasan, et al. "Opt-iml: Scaling language model instruction meta learning through the lens of generalization." arXiv preprint arXiv:2212.12017 (2022). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Opt-iml%3A+Scaling+language+model+instruction+meta+learning+through+the+lens+of+generalization&btnG=) [[Paper]](https://arxiv.org/abs/2212.12017)
+6. Xu, Jing, et al. "Improving open language models by learning from organic interactions." arXiv preprint arXiv:2306.04707 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Improving+open+language+models+by+learning+from+organic+interactions&btnG=) [[Paper]](https://arxiv.org/abs/2306.04707)
+7. Izacard, Gautier, et al. "Atlas: Few-shot learning with retrieval augmented language models." Journal of Machine Learning Research 24.251 (2023): 1-43. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Atlas%3A+Few-shot+learning+with+retrieval+augmented+language+models&btnG=#d=gs_cit&t=1724435301294&u=%2Fscholar%3Fq%3Dinfo%3ADThmVHR_I6wJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den) [[Paper]](https://www.jmlr.org/papers/v24/23-0037.html)
+8. Zhang, Susan, et al. "Opt: Open pre-trained transformer language models." arXiv preprint arXiv:2205.01068 (2022). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Opt%3A+Open+pre-trained+transformer+language+models&btnG=) [[Paper]](https://arxiv.org/abs/2205.01068)
+9. Fried, Daniel, et al. "Incoder: A generative model for code infilling and synthesis." arXiv preprint arXiv:2204.05999 (2022). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Incoder%3A+A+generative+model+for+code+infilling+and+synthesis&btnG=) [[Paper]](https://arxiv.org/abs/2204.05999)
 
 ### 2.4 Apple
-1. [[Google Scholar]]() [[Paper]]()
-2. [[Google Scholar]]() [[Paper]]()
-3. [[Google Scholar]]() [[Paper]]()
+1. Bachmann, Roman, et al. "4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities." arXiv preprint arXiv:2406.09406 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=4M-21%3A+An+Any-to-Any+Vision+Model+for+Tens+of+Tasks+and+Modalities&btnG=) [[Paper]](https://arxiv.org/abs/2406.09406)
+2. Mehta, Sachin, et al. "OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework." arXiv preprint arXiv:2404.14619 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=OpenELM%3A+An+Efficient+Language+Model+Family+with+Open-source+Training+and+Inference+Framework&btnG=) [[Paper]](https://arxiv.org/abs/2404.14619)
+3. McKinzie, Brandon, et al. "Mm1: Methods, analysis & insights from multimodal llm pre-training." arXiv preprint arXiv:2403.09611 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Mm1%3A+Methods%2C+analysis+%26+insights+from+multimodal+llm+pre-training&btnG=) [[Paper]](https://arxiv.org/abs/2403.09611)
+4. Moniz, Joel Ruben Antony, et al. "ReALM: Reference Resolution As Language Modeling." arXiv preprint arXiv:2403.20329 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=ReALM%3A+Reference+Resolution+As+Language+Modeling&btnG=) [[Paper]](https://arxiv.org/abs/2403.20329)
+5. You, Keen, et al. "Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs." arXiv preprint arXiv:2404.05719 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Ferret-UI%3A+Grounded+Mobile+UI+Understanding+with+Multimodal+LLMs&btnG=) [[Paper]](https://arxiv.org/abs/2404.05719)
+6. Fu, Tsu-Jui, et al. "Guiding instruction-based image editing via multimodal large language models." arXiv preprint arXiv:2309.17102 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Guiding+instruction-based+image+editing+via+multimodal+large+language+models&btnG=) [[Paper]](https://arxiv.org/abs/2309.17102)
+7. You, Haoxuan, et al. "Ferret: Refer and ground anything anywhere at any granularity." arXiv preprint arXiv:2310.07704 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Ferret%3A+Refer+and+ground+anything+anywhere+at+any+granularity&btnG=) [[Paper]](https://arxiv.org/abs/2310.07704)
 
 ### 2.5 Nvidia
-1. [[Google Scholar]]() [[Paper]]()
-2. [[Google Scholar]]() [[Paper]]()
-3. [[Google Scholar]]() [[Paper]]()
+1. Adler, Bo, et al. "Nemotron-4 340B Technical Report." arXiv preprint arXiv:2406.11704 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Nemotron-4+340B+Technical+Report&btnG=) [[Paper]](https://arxiv.org/abs/2406.11704)
+2. Jiang, Yunfan, et al. "Vima: Robot manipulation with multimodal prompts." (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Vima%3A+Robot+manipulation+with+multimodal+prompts&btnG=) [[Paper]](https://openreview.net/forum?id=nkDMZ8yqBt)
+3. Wang, Boxin, et al. "Instructretro: Instruction tuning post retrieval-augmented pretraining." arXiv preprint arXiv:2310.07713 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Instructretro%3A+Instruction+tuning+post+retrieval-augmented+pretraining&btnG=) [[Paper]](https://arxiv.org/abs/2310.07713)
+4. Huang, Jie, et al. "Raven: In-context learning with retrieval augmented encoder-decoder language models." arXiv preprint arXiv:2308.07922 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Raven%3A+In-context+learning+with+retrieval+augmented+encoder-decoder+language+models&btnG=) [[Paper]](https://arxiv.org/abs/2308.07922)
+5. Smith, Shaden, et al. "Using deepspeed and megatron to train megatron-turing nlg 530b, a large-scale generative language model." arXiv preprint arXiv:2201.11990 (2022). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Using+deepspeed+and+megatron+to+train+megatron-turing+nlg+530b%2C+a+large-scale+generative+language+model&btnG=) [[Paper]](https://arxiv.org/abs/2201.11990)
 
 ### 2.6 Google Deepmind
-1. [[Google Scholar]]() [[Paper]]()
-2. [[Google Scholar]]() [[Paper]]()
-3. [[Google Scholar]]() [[Paper]]()
+1. Reid, Machel, et al. "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context." arXiv preprint arXiv:2403.05530 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Gemini+1.5%3A+Unlocking+multimodal+understanding+across+millions+of+tokens+of+context&btnG=) [[Paper]](https://arxiv.org/abs/2403.05530)
+2. Saab, Khaled, et al. "Capabilities of gemini models in medicine." arXiv preprint arXiv:2404.18416 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Capabilities+of+gemini+models+in+medicine&btnG=) [[Paper]](https://arxiv.org/abs/2404.18416)
+3. De, Soham, et al. "Griffin: Mixing gated linear recurrences with local attention for efficient language models." arXiv preprint arXiv:2402.19427 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Griffin%3A+Mixing+gated+linear+recurrences+with+local+attention+for+efficient+language+models&btnG=) [[Paper]](https://arxiv.org/abs/2402.19427)
+4. Team, Gemma, et al. "Gemma: Open models based on gemini research and technology." arXiv preprint arXiv:2403.08295 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Gemma%3A+Open+models+based+on+gemini+research+and+technology&btnG=) [[Paper]](https://arxiv.org/abs/2403.08295)
+5. Chen, Xi, et al. "Pali-3 vision language models: Smaller, faster, stronger." arXiv preprint arXiv:2310.09199 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Pali-3+vision+language+models%3A+Smaller%2C+faster%2C+stronger&btnG=) [[Paper]](https://arxiv.org/abs/2310.09199)
+6. Padalkar, Abhishek, et al. "Open x-embodiment: Robotic learning datasets and rt-x models." arXiv preprint arXiv:2310.08864 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Open+x-embodiment%3A+Robotic+learning+datasets+and+rt-x+models&btnG=) [[Paper]](https://arxiv.org/abs/2310.08864)
+7. Tu, Tao, et al. "Towards generalist biomedical AI." NEJM AI 1.3 (2024): AIoa2300138. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Towards+generalist+biomedical+AI&btnG=) [[Paper]](https://ai.nejm.org/doi/abs/10.1056/AIoa2300138)
 
 ### 2.7 Microsoft
-1. [[Google Scholar]]() [[Paper]]()
-2. [[Google Scholar]]() [[Paper]]()
-3. [[Google Scholar]]() [[Paper]]()
+1. Reuter, “Microsoft readies new ai model to compete with google, openai, the information reports,” May 2024. 
+2. Sun, Yutao, et al. "You only cache once: Decoder-decoder architectures for language models." arXiv preprint arXiv:2405.05254 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=You+only+cache+once%3A+Decoder-decoder+architectures+for+language+models&btnG=) [[Paper]](https://arxiv.org/abs/2405.05254)
+3. Abdin, Marah, et al. "Phi-3 technical report: A highly capable language model locally on your phone." arXiv preprint arXiv:2404.14219 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Phi-3+technical+report%3A+A+highly+capable+language+model+locally+on+your+phone&btnG=) [[Paper]](https://arxiv.org/abs/2404.14219)
+4. Yu, Zhaojian, et al. "Wavecoder: Widespread and versatile enhanced instruction tuning with refined data generation." arXiv preprint arXiv:2312.14187 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Wavecoder%3A+Widespread+and+versatile+enhanced+instruction+tuning+with+refined+data+generation&btnG=) [[Paper]](https://arxiv.org/abs/2312.14187)
+5. Mitra, Arindam, et al. "Orca 2: Teaching small language models how to reason." arXiv preprint arXiv:2311.11045 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Orca+2%3A+Teaching+small+language+models+how+to+reason&btnG=) [[Paper]](https://arxiv.org/abs/2311.11045)
+6. Xiao, Bin, et al. "Florence-2: Advancing a unified representation for a variety of vision tasks." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Florence-2%3A+Advancing+a+unified+representation+for+a+variety+of+vision+tasks&btnG=) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.html)
 
 ### 2.8 Alibaba
-1. [[Google Scholar]]() [[Paper]]()
-2. [[Google Scholar]]() [[Paper]]()
-3. [[Google Scholar]]() [[Paper]]()
+1. Bai, Jinze, et al. "Qwen technical report." arXiv preprint arXiv:2309.16609 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Qwen+technical+report&btnG=) [[Paper]](https://arxiv.org/abs/2309.16609)
+2. Nguyen, Xuan-Phi, et al. "SeaLLMs--Large Language Models for Southeast Asia." arXiv preprint arXiv:2312.00738 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=SeaLLMs--Large+Language+Models+for+Southeast+Asia&btnG=) [[Paper]](https://arxiv.org/abs/2312.00738)
 
-## 3. 🤖 Applications
+
+## 3. 💁🏽‍♀️ Applications
 ### 3.1 LLMS in agriculture information diagnosis and human-machine interaction (peer-reviewed)
 1. Qing, Jiajun, et al. "GPT-aided diagnosis on agricultural image based on a new light YOLOPC." Computers and electronics in agriculture 213 (2023): 108168. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=GPT-aided+diagnosis+on+agricultural+image+based+on+a+new+light+YOLOPC&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923005562)
 2. Zhang, Yongheng, et al. "Building Natural Language Interfaces Using Natural Language Understanding and Generation: A Case Study on Human–Machine Interaction in Agriculture." Applied Sciences 12.22 (2022): 11830. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Building+Natural+Language+Interfaces+Using+Natural+Language+Understanding+and+Generation%3A+A+Case+Study+on+Human%E2%80%93Machine+Interaction+in+Agriculture&btnG=) [[Paper]](https://www.mdpi.com/2076-3417/12/22/11830)
