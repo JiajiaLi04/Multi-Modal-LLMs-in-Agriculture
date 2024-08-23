@@ -42,7 +42,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
   - [2.7 Microsoft](#27-Microsoft)
   - [2.8 Alibaba](#28-Alibaba)
 
-- [3. 💁🏽‍♀️ Applications](#2--applications)
+- [3. 💁🏽‍♀️ Applications](#2-️-applications)
   - [3.1 LLMS in agriculture information diagnosis and human-machine interaction peer reviewed](#31-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-peer-reviewed)
   - [3.2 LLMS in agriculture information diagnosis and human-machine interaction arXiv](#32-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-arXiv)
 
