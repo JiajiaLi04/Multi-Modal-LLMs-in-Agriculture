@@ -32,7 +32,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 ## 🔍 Table of Contents 
 
 - [1. 💁🏽‍♀️ Introduction](#1-️-introduction)
-- [1. 💁🏽‍♀️ LLMs](#2-️-llms)
+- [2. 💁🏽‍♀️ LLMs](#2-️-llms)
   - [2.1 Amazon](#21-Amazon)
   - [2.2 OpenAI](#22-Openai)
   - [2.3 MetaAI](#23-Metaai)
