@@ -42,7 +42,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
   - [2.7 Microsoft](#27-Microsoft)
   - [2.8 Alibaba](#28-Alibaba)
 
-- [3. 💁🏽‍♀️ Applications](#3-️-applications)
+- [3. 🤖 Applications](#3-️-applications)
   - [3.1 LLMS in agriculture information diagnosis and human-machine interaction peer reviewed](#31-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-peer-reviewed)
   - [3.2 LLMS in agriculture information diagnosis and human-machine interaction arXiv](#32-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-arXiv)
 
@@ -116,7 +116,7 @@ Why foundation models instead of traditional deep learning models?
 2. Nguyen, Xuan-Phi, et al. "SeaLLMs--Large Language Models for Southeast Asia." arXiv preprint arXiv:2312.00738 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=SeaLLMs--Large+Language+Models+for+Southeast+Asia&btnG=) [[Paper]](https://arxiv.org/abs/2312.00738)
 
 
-## 3. 💁🏽‍♀️ Applications
+## 3. 🤖 Applications
 ### 3.1 LLMS in agriculture information diagnosis and human-machine interaction (peer-reviewed)
 1. Qing, Jiajun, et al. "GPT-aided diagnosis on agricultural image based on a new light YOLOPC." Computers and electronics in agriculture 213 (2023): 108168. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=GPT-aided+diagnosis+on+agricultural+image+based+on+a+new+light+YOLOPC&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923005562)
 2. Zhang, Yongheng, et al. "Building Natural Language Interfaces Using Natural Language Understanding and Generation: A Case Study on Human–Machine Interaction in Agriculture." Applied Sciences 12.22 (2022): 11830. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Building+Natural+Language+Interfaces+Using+Natural+Language+Understanding+and+Generation%3A+A+Case+Study+on+Human%E2%80%93Machine+Interaction+in+Agriculture&btnG=) [[Paper]](https://www.mdpi.com/2076-3417/12/22/11830)
