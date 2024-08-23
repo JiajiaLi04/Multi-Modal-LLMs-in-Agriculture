@@ -32,9 +32,19 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 ## 🔍 Table of Contents 
 
 - [1. 💁🏽‍♀️ Introduction](#1-️-introduction)
-- [2. 🤖 Applications](#2--applications)
-  - [2.1 LLMS in agriculture information diagnosis and human-machine interaction peer reviewed](#21-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-peer-reviewed)
-  - [2.2 LLMS in agriculture information diagnosis and human-machine interaction arXiv](#22-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-arXiv)
+- [2. 💁🏽‍♀️ LLMs from major AI leading companies](#2-️llms-from-major-ai-leading-companies)
+  - [2.1 Amazon](#21-Amazon)
+  - [2.2 OpenAI](#22-Openai)
+  - [2.3 MetaAI](#22-Metaai)
+  - [2.4 Apple](#22-Apple)
+  - [2.5 Nvidia](#22-Nvidia)
+  - [2.6 Google Deepmind](#22-Google-deepmind)
+  - [2.7 Microsoft](#22-Microsoft)
+  - [2.8 Alibaba](#22-Alibaba)
+
+- [3. 🤖 Applications](#2--applications)
+  - [3.1 LLMS in agriculture information diagnosis and human-machine interaction peer reviewed](#21-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-peer-reviewed)
+  - [3.2 LLMS in agriculture information diagnosis and human-machine interaction arXiv](#22-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-arXiv)
 
 
 ## 1. 💁🏽‍♀️ Introduction
@@ -43,8 +53,58 @@ Why foundation models instead of traditional deep learning models?
 - 👉 **Fine-tuning Flexibility.** FMs demonstrate superior performance to be fine-tuned for particular tasks or datasets, saving the computational and temporal investments required to train extensive models from scratch.
 - 👉 **Data Efficiency.** FMs harness their foundational knowledge, exhibiting remarkable performance even in the face of limited task-specific data, which is effective for scenarios with data scarcity issues. 
 
-## 2. 🤖 Applications
-### 2.1 LLMS in agriculture information diagnosis and human-machine interaction (peer-reviewed)
+## 2. 🤖 LLMs from major Ai leading companies
+### 2.1 Amazon
+1. Fan, Haozheng, et al. "HLAT: High-quality Large Language Model Pre-trained on AWS Trainium." arXiv preprint arXiv:2404.10630 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=HLAT%3A+High-quality+Large+Language+Model+Pre-trained+on+AWS+Trainium&btnG=) [[Paper]](https://arxiv.org/abs/2404.10630)
+2. Zhang, Zhuosheng, et al. "Multimodal chain-of-thought reasoning in language models." arXiv preprint arXiv:2302.00923 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Multimodal+chain-of-thought+reasoning+in+language+models&btnG=) [[Paper]](https://arxiv.org/abs/2302.00923)
+3. Soltan, Saleh, et al. "Alexatm 20b: Few-shot learning using a large-scale multilingual seq2seq model." arXiv preprint arXiv:2208.01448 (2022). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Alexatm+20b%3A+Few-shot+learning+using+a+large-scale+multilingual+seq2seq+model&btnG=) [[Paper]](https://arxiv.org/abs/2208.01448)
+
+### 2.2 OpenAI
+1. Radford, Alec, et al. "Improving language understanding with unsupervised learning." (2018): 4. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Improving+language+understanding+with+unsupervised+learning&btnG=) [[Website]](https://openai.com/index/language-unsupervised/)
+2. Radford, Alec, et al. "Better language models and their implications." OpenAI blog 1.2 (2019). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Better+language+models+and+their+implications&btnG=) [[Website]](https:// openai.com/index/better-language-models/)
+3. Brown, Tom B. "Language models are few-shot learners." arXiv preprint ArXiv:2005.14165 (2020). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Language+models+are+few-shot+learners&btnG=) [[Paper]](https://splab.sdu.edu.cn/GPT3.pdf)
+4. Achiam, Josh, et al. "Gpt-4 technical report." arXiv preprint arXiv:2303.08774 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Gpt-4+technical+report&btnG=) [[Paper]](https://arxiv.org/abs/2303.08774)
+5. OPenAI, “Hello GPT-4o.” https://openai.com/index/hello-gpt-4o/, 2024. [[Website]](https://openai.com/index/hello-gpt-4o/)
+6. McAleese, Nat, et al. "Llm critics help catch llm bugs." arXiv preprint arXiv:2407.00215 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Llm+critics+help+catch+llm+bugs&btnG=) [[Paper]](https://arxiv.org/abs/2407.00215)
+
+### 2.3 MetaAI
+1. [[Google Scholar]]() [[Paper]]()
+2. [[Google Scholar]]() [[Paper]]()
+3. [[Google Scholar]]() [[Paper]]()
+4. [[Google Scholar]]() [[Paper]]()
+5. [[Google Scholar]]() [[Paper]]()
+6. [[Google Scholar]]() [[Paper]]()
+7. [[Google Scholar]]() [[Paper]]()
+8. [[Google Scholar]]() [[Paper]]()
+9. [[Google Scholar]]() [[Paper]]()
+
+### 2.4 Apple
+1. [[Google Scholar]]() [[Paper]]()
+2. [[Google Scholar]]() [[Paper]]()
+3. [[Google Scholar]]() [[Paper]]()
+
+### 2.5 Nvidia
+1. [[Google Scholar]]() [[Paper]]()
+2. [[Google Scholar]]() [[Paper]]()
+3. [[Google Scholar]]() [[Paper]]()
+
+### 2.6 Google Deepmind
+1. [[Google Scholar]]() [[Paper]]()
+2. [[Google Scholar]]() [[Paper]]()
+3. [[Google Scholar]]() [[Paper]]()
+
+### 2.7 Microsoft
+1. [[Google Scholar]]() [[Paper]]()
+2. [[Google Scholar]]() [[Paper]]()
+3. [[Google Scholar]]() [[Paper]]()
+
+### 2.8 Alibaba
+1. [[Google Scholar]]() [[Paper]]()
+2. [[Google Scholar]]() [[Paper]]()
+3. [[Google Scholar]]() [[Paper]]()
+
+## 3. 🤖 Applications
+### 3.1 LLMS in agriculture information diagnosis and human-machine interaction (peer-reviewed)
 1. Qing, Jiajun, et al. "GPT-aided diagnosis on agricultural image based on a new light YOLOPC." Computers and electronics in agriculture 213 (2023): 108168. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=GPT-aided+diagnosis+on+agricultural+image+based+on+a+new+light+YOLOPC&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923005562)
 2. Zhang, Yongheng, et al. "Building Natural Language Interfaces Using Natural Language Understanding and Generation: A Case Study on Human–Machine Interaction in Agriculture." Applied Sciences 12.22 (2022): 11830. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Building+Natural+Language+Interfaces+Using+Natural+Language+Understanding+and+Generation%3A+A+Case+Study+on+Human%E2%80%93Machine+Interaction+in+Agriculture&btnG=) [[Paper]](https://www.mdpi.com/2076-3417/12/22/11830)
 3. Yadav, Sargam, and Abhishek Kaushik. "Comparative study of pre-trained language models for text classification in smart agriculture domain." Advances in Data-driven Computing and Intelligent Systems: Selected Papers from ADCIS 2022, Volume 2. Singapore: Springer Nature Singapore, 2023. 267-279. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Comparative+study+of+pre-trained+language+models+for+text+classification+in+smart+agriculture+domain&btnG=) [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-0981-0_21)
@@ -67,7 +127,7 @@ Why foundation models instead of traditional deep learning models?
 
 
 
-### 2.2 LLMS in agriculture information diagnosis and human-machine interaction (arXiv)
+### 3.2 LLMS in agriculture information diagnosis and human-machine interaction (arXiv)
 1. De Clercq, Djavan, et al. "Large language models can help boost food production, but be mindful of their risks." arXiv preprint arXiv:2403.15475 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Large+language+models+can+help+boost+food+production%2C+but+be+mindful+of+their+risks&btnG=) [[Paper]](https://arxiv.org/abs/2403.15475)
 2. Silva, Bruno, et al. "GPT-4 as an agronomist assistant? Answering agriculture exams using large language models." arXiv preprint arXiv:2310.06225 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=GPT-4+as+an+agronomist+assistant%3F+Answering+agriculture+exams+using+large+language+models&btnG=) [[Paper]](https://arxiv.org/abs/2310.06225)
 3. Yang, Xianjun, et al. "Pllama: An open-source large language model for plant science." arXiv preprint arXiv:2401.01600 (2024).[[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Pllama%3A+An+open-source+large+language+model+for+plant+science&btnG=) [[Paper]](https://arxiv.org/abs/2401.01600)
@@ -79,16 +139,5 @@ Why foundation models instead of traditional deep learning models?
 9. Deforce, Boje, Bart Baesens, and Estefanía Serral Asensio. "Leveraging Time-Series Foundation Models in Smart Agriculture for Soil Moisture Forecasting." arXiv preprint arXiv:2405.18913 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Leveraging+Time-Series+Foundation+Models+in+Smart+Agriculture+for+Soil+Moisture+Forecasting&btnG=) [[Paper]](https://arxiv.org/abs/2405.18913)
 10. Wu, Yiqi, et al. "GPT-4o: Visual perception performance of multimodal large language models in piglet activity understanding." arXiv preprint arXiv:2406.09781 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=GPT-4o%3A+Visual+perception+performance+of+multimodal+large+language+models+in+piglet+activity+understanding&btnG=) [[Paper]](https://arxiv.org/abs/2406.09781)
 11. Darapaneni, Narayana, et al. "LSTM-RASA Based Agri Farm Assistant for Farmers." arXiv preprint arXiv:2204.09717 (2022). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=LSTM-RASA+Based+Agri+Farm+Assistant+for+Farmers&btnG=) [[Paper]](https://arxiv.org/abs/2204.09717)
-12. 
-13. [[Google Scholar]]() [[Paper]]()
-14. [[Google Scholar]]() [[Paper]]()
-15. [[Google Scholar]]() [[Paper]]()
-16. [[Google Scholar]]() [[Paper]]()
-17. [[Google Scholar]]() [[Paper]]()
-18. [[Google Scholar]]() [[Paper]]()
-19. [[Google Scholar]]() [[Paper]]()
-20. [[Google Scholar]]() [[Paper]]()
-21. [[Google Scholar]]() [[Paper]]()
-22. [[Google Scholar]]() [[Paper]]()
-23. [[Google Scholar]]() [[Paper]]()
+
 
