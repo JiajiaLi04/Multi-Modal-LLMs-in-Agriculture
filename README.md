@@ -48,10 +48,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 
 
 ## 1. 💁🏽‍♀️ Introduction
-Why foundation models instead of traditional deep learning models?
-- 👉 **Pre-trained Knowledge.** By training on vast and diverse datasets, FMs possess a form of "general intelligence" that encompasses knowledge of the world, language, vision, and their specific training domains.
-- 👉 **Fine-tuning Flexibility.** FMs demonstrate superior performance to be fine-tuned for particular tasks or datasets, saving the computational and temporal investments required to train extensive models from scratch.
-- 👉 **Data Efficiency.** FMs harness their foundational knowledge, exhibiting remarkable performance even in the face of limited task-specific data, which is effective for scenarios with data scarcity issues. 
+Review the progress of LLM and its utilization in agriculture with an additional focus on 11 key research questions (RQs). Through answering these RQs, this review outlines the current challenges, limitations and future roadmap of LLM in agriculture.
 
 ## 2. 🗂️ LLMs
 ### 2.1 Amazon
