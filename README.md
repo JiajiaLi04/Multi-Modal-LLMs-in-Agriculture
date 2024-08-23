@@ -35,16 +35,16 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 - [2. 🤖 LLMs from major AI leading companies](#2-️Llms-from-major-ai-leading-companies)
   - [2.1 Amazon](#21-Amazon)
   - [2.2 OpenAI](#22-Openai)
-  - [2.3 MetaAI](#22-Metaai)
-  - [2.4 Apple](#22-Apple)
-  - [2.5 Nvidia](#22-Nvidia)
+  - [2.3 MetaAI](#23-Metaai)
+  - [2.4 Apple](#24-Apple)
+  - [2.5 Nvidia](#25-Nvidia)
   - [2.6 Google Deepmind](#22-Google-deepmind)
-  - [2.7 Microsoft](#22-Microsoft)
-  - [2.8 Alibaba](#22-Alibaba)
+  - [2.7 Microsoft](#27-Microsoft)
+  - [2.8 Alibaba](#28-Alibaba)
 
 - [3. 💁🏽‍♀️ Applications](#2--applications)
-  - [3.1 LLMS in agriculture information diagnosis and human-machine interaction peer reviewed](#21-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-peer-reviewed)
-  - [3.2 LLMS in agriculture information diagnosis and human-machine interaction arXiv](#22-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-arXiv)
+  - [3.1 LLMS in agriculture information diagnosis and human-machine interaction peer reviewed](#31-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-peer-reviewed)
+  - [3.2 LLMS in agriculture information diagnosis and human-machine interaction arXiv](#32-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-arXiv)
 
 
 ## 1. 💁🏽‍♀️ Introduction
