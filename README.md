@@ -29,6 +29,17 @@ If you have any suggestions or find any missed papers, feel free to reach out or
    
 3. Display the papers in a **year descending order** (the latest, the first).
 
+<!-- omit in toc -->
+## Citation
+
+Find this repository helpful? 😊  
+
+Please consider citing our paper. 👇👇👇
+
+```
+
+```
+
 
 <!-- omit in toc -->
 ## 🔍 Table of Contents 
