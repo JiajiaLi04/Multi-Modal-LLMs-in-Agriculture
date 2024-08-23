@@ -45,5 +45,29 @@ Why foundation models instead of traditional deep learning models?
 
 ## 2. 💁🏽‍♀️ Applications
 ### 2.1 LLMS in agriculture information diagnosis and human-machine interaction (peer-reviewed)
+1. Qing, Jiajun, et al. "GPT-aided diagnosis on agricultural image based on a new light YOLOPC." Computers and electronics in agriculture 213 (2023): 108168. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=GPT-aided+diagnosis+on+agricultural+image+based+on+a+new+light+YOLOPC&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923005562)
+2. [[Google Scholar]]() [[Paper]]()
+3. [[Google Scholar]]() [[Paper]]()
+4. [[Google Scholar]]() [[Paper]]()
+5. [[Google Scholar]]() [[Paper]]()
+6. [[Google Scholar]]() [[Paper]]()
+7. [[Google Scholar]]() [[Paper]]()
+8. [[Google Scholar]]() [[Paper]]()
+9. [[Google Scholar]]() [[Paper]]()
+10. [[Google Scholar]]() [[Paper]]()
+11. [[Google Scholar]]() [[Paper]]()
+12. [[Google Scholar]]() [[Paper]]()
+13. [[Google Scholar]]() [[Paper]]()
+14. [[Google Scholar]]() [[Paper]]()
+15. [[Google Scholar]]() [[Paper]]()
+16. [[Google Scholar]]() [[Paper]]()
+17. [[Google Scholar]]() [[Paper]]()
+18. [[Google Scholar]]() [[Paper]]()
+19. [[Google Scholar]]() [[Paper]]()
+20. [[Google Scholar]]() [[Paper]]()
+21. [[Google Scholar]]() [[Paper]]()
+22. [[Google Scholar]]() [[Paper]]()
+
+
 
 ### 2.2 LLMS in agriculture information diagnosis and human-machine interaction (arXiv)
