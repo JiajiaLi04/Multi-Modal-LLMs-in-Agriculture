@@ -43,7 +43,7 @@ Why foundation models instead of traditional deep learning models?
 - 👉 **Fine-tuning Flexibility.** FMs demonstrate superior performance to be fine-tuned for particular tasks or datasets, saving the computational and temporal investments required to train extensive models from scratch.
 - 👉 **Data Efficiency.** FMs harness their foundational knowledge, exhibiting remarkable performance even in the face of limited task-specific data, which is effective for scenarios with data scarcity issues. 
 
-## 2. 💁🏽‍♀️ Applications
+## 2. 🤖 Applications
 ### 2.1 LLMS in agriculture information diagnosis and human-machine interaction (peer-reviewed)
 1. Qing, Jiajun, et al. "GPT-aided diagnosis on agricultural image based on a new light YOLOPC." Computers and electronics in agriculture 213 (2023): 108168. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=GPT-aided+diagnosis+on+agricultural+image+based+on+a+new+light+YOLOPC&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923005562)
 2. Zhang, Yongheng, et al. "Building Natural Language Interfaces Using Natural Language Understanding and Generation: A Case Study on Human–Machine Interaction in Agriculture." Applied Sciences 12.22 (2022): 11830. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Building+Natural+Language+Interfaces+Using+Natural+Language+Understanding+and+Generation%3A+A+Case+Study+on+Human%E2%80%93Machine+Interaction+in+Agriculture&btnG=) [[Paper]](https://www.mdpi.com/2076-3417/12/22/11830)
