@@ -32,7 +32,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 ## 🔍 Table of Contents 
 
 - [1. 💁🏽‍♀️ Introduction](#1-️-introduction)
-- [2. 💁🏽‍♀️ LLms](#2--llms)
+- [1. 💁🏽‍♀️ LLMs](#2-️-llms)
   - [2.1 Amazon](#21-Amazon)
   - [2.2 OpenAI](#22-Openai)
   - [2.3 MetaAI](#23-Metaai)
@@ -53,7 +53,7 @@ Why foundation models instead of traditional deep learning models?
 - 👉 **Fine-tuning Flexibility.** FMs demonstrate superior performance to be fine-tuned for particular tasks or datasets, saving the computational and temporal investments required to train extensive models from scratch.
 - 👉 **Data Efficiency.** FMs harness their foundational knowledge, exhibiting remarkable performance even in the face of limited task-specific data, which is effective for scenarios with data scarcity issues. 
 
-## 2. 💁🏽‍♀️ LLms
+## 2. 💁🏽‍♀️ LLMs
 ### 2.1 Amazon
 1. Fan, Haozheng, et al. "HLAT: High-quality Large Language Model Pre-trained on AWS Trainium." arXiv preprint arXiv:2404.10630 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=HLAT%3A+High-quality+Large+Language+Model+Pre-trained+on+AWS+Trainium&btnG=) [[Paper]](https://arxiv.org/abs/2404.10630)
 2. Zhang, Zhuosheng, et al. "Multimodal chain-of-thought reasoning in language models." arXiv preprint arXiv:2302.00923 (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Multimodal+chain-of-thought+reasoning+in+language+models&btnG=) [[Paper]](https://arxiv.org/abs/2302.00923)
