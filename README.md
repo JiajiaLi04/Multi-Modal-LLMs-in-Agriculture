@@ -10,6 +10,8 @@ A curated list of awesome **Multi-Modal-LLMs-in-Agriculture** papers 🔥🔥�
 
 Currently maintained by <ins>[Jiajia Li](xx) @ MSU</ins>. 
 
+**<font color='red'>Work still in progress</font>**  🚀, **we appreciate any suggestions and contributions** ❤️.
+
 
 <!-- omit in toc -->
 ## How to contribute?
