@@ -58,6 +58,7 @@ In processing
 - [3. 💁🏽‍♀️ Applications](#3-️-applications)
   - [3.1 LLMS in agriculture information diagnosis and human-machine interaction peer reviewed](#31-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-peer-reviewed)
   - [3.2 LLMS in agriculture information diagnosis and human-machine interaction arXiv](#32-LLMS-in-agriculture-information-diagnosis-and-human-machine-interaction-arXiv)
+  - [3.3 Mapping of Research Questions to the Application of LLMs in Agriculture](#33-mapping-of-research-questions-to-the-application-of-llms-in-agriculture)
 
 
 ## 1. 💁🏽‍♀️ Introduction
@@ -163,4 +164,5 @@ Review the progress of LLM and its utilization in agriculture with an additional
 10. Wu, Yiqi, et al. "GPT-4o: Visual perception performance of multimodal large language models in piglet activity understanding." arXiv preprint arXiv:2406.09781 (2024). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=GPT-4o%3A+Visual+perception+performance+of+multimodal+large+language+models+in+piglet+activity+understanding&btnG=) [[Paper]](https://arxiv.org/abs/2406.09781)
 11. Darapaneni, Narayana, et al. "LSTM-RASA Based Agri Farm Assistant for Farmers." arXiv preprint arXiv:2204.09717 (2022). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=LSTM-RASA+Based+Agri+Farm+Assistant+for+Farmers&btnG=) [[Paper]](https://arxiv.org/abs/2204.09717)
 
-
+### 3.3 Mapping of Research Questions to the Application of LLMs in Agriculture
+1. Zhao, Biao, et al. "ChatAgri: Exploring potentials of ChatGPT on cross-linguistic agricultural text classification." Neurocomputing 557 (2023): 126708. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=ChatAgri%3A+Exploring+potentials+of+ChatGPT+on+cross-linguistic+agricultural+text+classification&btnG=) [[Paper]]([https://arxiv.org/abs/2403.15475](https://www.sciencedirect.com/science/article/pii/S0925231223008317)
