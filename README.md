@@ -166,3 +166,21 @@ Review the progress of LLM and its utilization in agriculture with an additional
 
 ### 3.3 Mapping of Research Questions to the Application of LLMs in Agriculture
 1. Zhao, Biao, et al. "ChatAgri: Exploring potentials of ChatGPT on cross-linguistic agricultural text classification." Neurocomputing 557 (2023): 126708. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=ChatAgri%3A+Exploring+potentials+of+ChatGPT+on+cross-linguistic+agricultural+text+classification&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231223008317)
+2.  [[Google Scholar]]() [[Paper]]()
+3.  [[Google Scholar]]() [[Paper]]()
+4.  [[Google Scholar]]() [[Paper]]()
+5.  [[Google Scholar]]() [[Paper]]()
+6.  [[Google Scholar]]() [[Paper]]()
+7.  [[Google Scholar]]() [[Paper]]()
+8.  [[Google Scholar]]() [[Paper]]()
+9.  [[Google Scholar]]() [[Paper]]()
+10.  [[Google Scholar]]() [[Paper]]()
+11.  [[Google Scholar]]() [[Paper]]()
+12.  [[Google Scholar]]() [[Paper]]()
+13.  [[Google Scholar]]() [[Paper]]()
+14.  [[Google Scholar]]() [[Paper]]()
+15.  [[Google Scholar]]() [[Paper]]()
+16.  [[Google Scholar]]() [[Paper]]()
+17.  [[Google Scholar]]() [[Paper]]()
+18.  [[Google Scholar]]() [[Paper]]()
+
