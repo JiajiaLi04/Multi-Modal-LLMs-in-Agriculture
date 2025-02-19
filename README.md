@@ -37,7 +37,12 @@ Find this repository helpful? 😊
 Please consider citing our paper. 👇👇👇
 
 ```
-In processing
+@article{sapkota2024multi,
+  title={Multi-modal LLMs in agriculture: A comprehensive review},
+  author={Sapkota, Ranjan and Qureshi, Rizwan and Hassan, Syed Zohaib and Shutske, John and Shoman, Maged and Sajjad, Muhammad and Dharejo, Fayaz Ali and Paudel, Achyut and Li, Jiajia and Meng, Zhichao and others},
+  journal={Authorea Preprints},
+  publisher={Authorea}
+}
 ```
 
 
